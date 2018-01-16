@@ -1,1 +1,1 @@
-This project is to create a canvas application with a news feed with React-Native
+This project is to create a drawable application using drawing tools and recording the process of it using React-Native.

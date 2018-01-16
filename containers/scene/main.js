@@ -14,6 +14,8 @@ export default class Main extends Component<{}> {
       <View style={styles.container}>
         <Text style={styles.welcome}>
           Welcome CODERS!
+          Big maintenience going on behind the scenes
+          Stay tune with more action.
         </Text>
       </View>
     );
